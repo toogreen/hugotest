@@ -5,6 +5,6 @@ title = 'My First Post'
 +++
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text. And you suck!
+This is **bold** text, and this is *emphasized* text. And you suck twice!
 
 Visit the [Hugo](https://gohugo.io) website!
