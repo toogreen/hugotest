@@ -1,4 +1,4 @@
-baseURL = 'https://toogreen.ca/'
+baseURL = 'https://toogreen.ca/hugotest/public/'
 locale = 'fr-ca'
 title = 'Toogreen New Hugo Project'
 theme = 'ananke'
