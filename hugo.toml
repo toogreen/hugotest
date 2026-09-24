@@ -1,5 +1,5 @@
 baseURL = 'https://toogreen.ca/'
 locale = 'fr-ca'
-title = 'Toogreen's New Hugo Project'
+title = 'Toogreen New Hugo Project'
 theme = 'ananke'
 
